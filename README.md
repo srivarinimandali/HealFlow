@@ -35,10 +35,6 @@ Addressing healthcare system fragmentation by providing a unified platform for a
 - Diagnostic testing procedures.
 - Medication inventory control.
 
-## Contributions
-- Renuka Alakunta: Pharmacy and Diagnostics Enterprise
-- Rushitha Akula: System Admin creation
-- Srivarini Mandali: Ambulance Enterprise and Hospital Enterprises
 
 HealFlow aspires to better healthcare infrastructure through comprehensive management solutions.
 
